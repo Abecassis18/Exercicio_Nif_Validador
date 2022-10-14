@@ -1,0 +1,11 @@
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\bin\Debug\Exercicio_Nif_Validador.exe.config
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\bin\Debug\Exercicio_Nif_Validador.exe
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\bin\Debug\Exercicio_Nif_Validador.pdb
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.csproj.AssemblyReference.cache
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.csproj.SuggestedBindingRedirects.cache
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.Form1.resources
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.Properties.Resources.resources
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.csproj.GenerateResource.cache
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.csproj.CoreCompileInputs.cache
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.exe
+C:\Users\abeca\source\repos\Exercicio_Nif_Validador\Exercicio_Nif_Validador\obj\Debug\Exercicio_Nif_Validador.pdb
